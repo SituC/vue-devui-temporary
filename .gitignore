@@ -6,4 +6,5 @@ dist-ssr
 package-lock.json
 .history
 .vscode
+.idea
 devui/vue-devui.ts
